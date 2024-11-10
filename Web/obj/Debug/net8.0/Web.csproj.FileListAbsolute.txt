@@ -129,3 +129,13 @@ C:\Users\Agustin\source\repos\PARKE\Web\obj\Debug\net8.0\refint\Web.dll
 C:\Users\Agustin\source\repos\PARKE\Web\obj\Debug\net8.0\Web.pdb
 C:\Users\Agustin\source\repos\PARKE\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
 C:\Users\Agustin\source\repos\PARKE\Web\obj\Debug\net8.0\ref\Web.dll
+C:\Users\Agustin\source\repos\PARKE\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Agustin\source\repos\PARKE\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

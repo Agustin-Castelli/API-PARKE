@@ -1,6 +1,8 @@
 ﻿using Application.Interfaces;
+using Application.Models;
 using Domain.Entities;
 using Domain.Exceptions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +10,7 @@ namespace Web.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Policy = "RequireEmployeeRole")]
     public class ProductController : ControllerBase
     {
         private readonly IProductService _productService;
@@ -18,7 +21,8 @@ namespace Web.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create([FromBody] Product product)
+        [Authorize(Policy = "RequireAdminRole")]
+        public IActionResult Create([FromBody] ProductCreateRequest product)
         {
             try
             {
@@ -32,7 +36,8 @@ namespace Web.Controllers
             }
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("[action]/{id}")]
+        [Authorize(Policy = "RequireAdminRole")]
         public IActionResult Delete([FromRoute] int id)
         {
             try
@@ -46,8 +51,9 @@ namespace Web.Controllers
             }
         }
 
-        [HttpPut("{id}")]
-        public IActionResult Update([FromRoute] int id, [FromBody] Product product)
+        [HttpPut("[action]/{id}")]
+        [Authorize(Policy = "RequireAdminRole")]
+        public IActionResult Update([FromRoute] int id, [FromBody] ProductUpdateRequest product)
         {
             try
             {
@@ -60,7 +66,7 @@ namespace Web.Controllers
             }
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("[action]/{id}")]
         public ActionResult<Product> GetById([FromRoute] int id)
         {
             try
@@ -85,6 +91,25 @@ namespace Web.Controllers
             {
                 return NotFound(ex.Message);
             }
+        }
+
+        [HttpGet("[action]")]
+        public ActionResult<Product> GetByCode([FromQuery] string code)
+        {
+            try
+            {
+                return _productService.GetByCode(code);
+            }
+            catch (NotFoundException ex)
+            {
+                return NotFound(ex.Message);
+            }
+        }
+
+        [HttpGet("[action]")]
+        public ActionResult<List<Product>> GetAll()
+        {
+            return _productService.GetAll();
         }
     }
 }

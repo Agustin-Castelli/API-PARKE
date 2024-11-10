@@ -24,9 +24,19 @@ namespace Infrastructure.Data
             return _context.Products.FirstOrDefault(p => p.ProductName == name);
         }
 
+        public Product? GetByCode(string code)
+        {
+            return _context.Products.FirstOrDefault(p => p.Code == code);
+        }
+
         public Product? GetById(int id)
         { 
             return _context.Products.FirstOrDefault(p => p.Id == id); 
+        }
+
+        public List<Product> GetAll()
+        {
+            return _context.Products.ToList();
         }
 
         public Product Add(Product product)
@@ -49,9 +59,9 @@ namespace Infrastructure.Data
 
         public void SaveChanges() { _context.SaveChanges(); }
 
-        public Product? SearchId(int id)
+        public Product? SearchCode(string code)
         {
-            var productFound = _context.Set<Product>().FirstOrDefault(p => p.Id == id);
+            var productFound = _context.Set<Product>().FirstOrDefault(p => p.Code == code);
 
             return productFound;
         }

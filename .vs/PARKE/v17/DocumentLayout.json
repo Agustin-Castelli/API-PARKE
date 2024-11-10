@@ -3,36 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Agustin\\source\\repos\\PARKE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|c:\\users\\agustin\\source\\repos\\parke\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|c:\\users\\agustin\\source\\repos\\parke\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|c:\\users\\agustin\\source\\repos\\parke\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|c:\\users\\agustin\\source\\repos\\parke\\web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|solutionrelative:web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|c:\\users\\agustin\\source\\repos\\parke\\application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|c:\\users\\agustin\\source\\repos\\parke\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|c:\\users\\agustin\\source\\repos\\parke\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|c:\\users\\agustin\\source\\repos\\parke\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|c:\\users\\agustin\\source\\repos\\parke\\infrastructure\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|c:\\users\\agustin\\source\\repos\\parke\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|c:\\users\\agustin\\source\\repos\\parke\\infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|c:\\users\\agustin\\source\\repos\\parke\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|c:\\users\\agustin\\source\\repos\\parke\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|c:\\users\\agustin\\source\\repos\\parke\\domain\\enums\\rolenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\rolenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|c:\\users\\agustin\\source\\repos\\parke\\infrastructure\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|c:\\users\\agustin\\source\\repos\\parke\\web\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|solutionrelative:web\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|c:\\users\\agustin\\source\\repos\\parke\\domain\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|c:\\users\\agustin\\source\\repos\\parke\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{427CDBEE-D1E1-4752-8691-19679D6E4D1E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|c:\\users\\agustin\\source\\repos\\parke\\web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|solutionrelative:web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|c:\\users\\agustin\\source\\repos\\parke\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|c:\\users\\agustin\\source\\repos\\parke\\application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|c:\\users\\agustin\\source\\repos\\parke\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{119D4EE2-54B5-458C-BE48-051CAFB0DEB3}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|c:\\users\\agustin\\source\\repos\\parke\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998A36EA-DF2B-4478-99B8-D5745345949C}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|c:\\users\\agustin\\source\\repos\\parke\\infrastructure\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D922E-C178-4DB1-B02C-0587C380C913}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,106 +82,229 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Web\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T00:02:17.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "Application\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:57:09.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\ProductRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\ProductRepository.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDgAAAAJAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T23:57:37.112Z",
+              "WhenOpened": "2024-11-09T01:58:19.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:04:21.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:56:50.761Z"
+              "WhenOpened": "2024-11-10T03:04:33.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:50:13.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\ApplicationContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\ApplicationContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T23:54:49.452Z"
+              "WhenOpened": "2024-11-09T01:51:03.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "RolEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Enums\\RolEnum.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\RolEnum.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Enums\\RolEnum.cs",
+              "RelativeToolTip": "Domain\\Enums\\RolEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:05:37.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Entities\\Product.cs",
               "RelativeToolTip": "Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T20:58:25.964Z"
+              "WhenOpened": "2024-11-04T04:57:31.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:36:52.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:32:57.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:33:46.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Program.cs",
               "RelativeDocumentMoniker": "Web\\Program.cs",
               "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Program.cs",
               "RelativeToolTip": "Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:57:23.462Z"
+              "WhenOpened": "2024-11-01T03:57:07.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T03:56:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:47:36.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:46:23.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:46:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAmwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:46:12.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:44:41.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ProductRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:44:31.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\PARKE\\Infrastructure\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:44:35.303Z"
             }
           ]
         }

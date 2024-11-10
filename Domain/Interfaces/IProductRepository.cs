@@ -10,11 +10,13 @@ namespace Domain.Interfaces
     public interface IProductRepository
     {
         public Product? GetByName(string name);
+        public Product? GetByCode(string code);
         public Product? GetById(int id);
+        public List<Product> GetAll();
         public Product Add(Product product);
         public void Update(Product product);
         public void Delete(Product product);
         public void SaveChanges();
-        public Product? SearchId(int id);
+        public Product? SearchCode(string code);
     }
 }
